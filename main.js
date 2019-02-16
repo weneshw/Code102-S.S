@@ -1,15 +1,16 @@
 //let name=kesete;
 let age=26;
 if(age>21){
-alert("you are alert!")
+alert("you are an adult!")
 
 }else{
-alert(" you are adult!")
+alert(" You are minor")
 }
 let speedLimit=35;
 let currentSpeed=45;
 if(currentSpeed>speedLimit){
     alert("take a picture")
-}else{
+}
+else{
     alert("keep it up")
 }
